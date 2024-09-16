@@ -1,7 +1,9 @@
 # ros2_camera_calibration
 ros2的相机标定工具
 
-参考文档https://blog.csdn.net/qq_64079631/article/details/136423941
+参考文档：https://blog.csdn.net/qq_64079631/article/details/136423941
+
+标定板生成网站：https://calib.io/pages/camera-calibration-pattern-generator
 
 1.安装工具
 ```
