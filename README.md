@@ -37,7 +37,3 @@ ros2的相机标定工具
   image:=表示：图像话题名称为/image_raw 相机标定节点将从该话题接收图像进行标定
   
   camera:=表示：指定相机名称/camera
-
-                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-                        
-原文链接：https://blog.csdn.net/qq_64079631/article/details/136423941
